@@ -1,3 +1,7 @@
+[Original Repository](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)
+
+
+
 # LearnOpenGL中文版
 
 **英文原版**：[learnopengl.com](https://learnopengl.com/)
